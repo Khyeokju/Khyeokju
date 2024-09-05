@@ -1,4 +1,6 @@
-## Hi there 👋
+## 안녕하세요,.. 😔
+
+개린이구요. 대학 졸업하고 취업할 때까지 열심히 채워나가 보겠읍니다.
 
 <!--
 **Khyeokju/Khyeokju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
