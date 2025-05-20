@@ -1,6 +1,6 @@
 ## 안녕하세요,.. 😔
 
-제주대학교 전산통계학과구요. 개린이입니다. 대학 졸업하고 취업할 때까지 열심히 채워나가 보겠읍니다.
+제주대학교 전산통계학과 재학 중 입니다. 대학 졸업하고 취업할 때까지 열심히 채워나가 보겠습니다.
 
 <!--
 **Khyeokju/Khyeokju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
